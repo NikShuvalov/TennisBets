@@ -1,0 +1,4406 @@
+{
+  "cursor": "CgYIlODo1QYSGEtYQVRQTUFUQ0gtMjZTRVAyN1JJR0RVQw",
+  "events": [
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT11ZVEHAL",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-10T07:30:52.694441Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Zverev vs Halys (Oct 11)",
+      "title": "Zverev vs Halys"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT11LEHJOD",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-10T07:30:51.749623Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Lehecka vs Jodar (Oct 11)",
+      "title": "Lehecka vs Jodar"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT11KHAMAN",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-10T04:02:18.819699Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Khachanov vs Mannarino (Oct 11)",
+      "title": "Khachanov vs Mannarino"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT11HURZHO",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-10T07:25:29.569371Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Hurkacz vs Zhou (Oct 11)",
+      "title": "Hurkacz vs Zhou"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT11DAVTIA",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-10T07:25:29.0457Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Davidovich Fokina vs Tiafoe (Oct 11)",
+      "title": "Davidovich Fokina vs Tiafoe"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT11CERMEN",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-10T07:25:28.315226Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Cerundolo vs Mensik (Oct 11)",
+      "title": "Cerundolo vs Mensik"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT10MEDSVR",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-10T10:35:29.961778Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Medvedev vs Svrcina (Oct 10)",
+      "title": "Medvedev vs Svrcina"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT10FILVAN",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-10T14:01:25.805912Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Fils vs Van de Zandschulp (Oct 10)",
+      "title": "Fils vs Van de Zandschulp"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT10CARAUG",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-10T10:40:50.984885Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Carreno Busta vs Auger-Aliassime (Oct 10)",
+      "title": "Carreno Busta vs Auger-Aliassime"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT10BERALC",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-10T14:01:23.866339Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Bergs vs Alcaraz (Oct 10)",
+      "title": "Bergs vs Alcaraz"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT10UGOAUG",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-10T04:13:43.976255Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Ugo Carabelli vs Auger-Aliassime (Oct 10)",
+      "title": "Ugo Carabelli vs Auger-Aliassime"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT10TIRJOD",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-10T04:13:44.986942Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Tirante vs Jodar (Oct 10)",
+      "title": "Tirante vs Jodar"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT10TABCAR",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-10T09:03:40.17418Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Tabilo vs Carreno Busta (Oct 10)",
+      "title": "Tabilo vs Carreno Busta"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT10SHEGEA",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-09T07:05:42.22936Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Shelton vs Gea (Oct 10)",
+      "title": "Shelton vs Gea"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT10CERALC",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-10T12:34:00.403082Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Cerundolo vs Alcaraz (Oct 10)",
+      "title": "Cerundolo vs Alcaraz"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT10BAEVAC",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-10T12:45:34.936068Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Baez vs Vacherot (Oct 10)",
+      "title": "Baez vs Vacherot"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT10ARNFRI",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-10T08:04:03.893434Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Arnaldi vs Fritz (Oct 10)",
+      "title": "Arnaldi vs Fritz"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT09DESAK",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-10T07:25:25.055857Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "de Minaur vs Sakamoto (Oct 9)",
+      "title": "de Minaur vs Sakamoto"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT09BUBNAK",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-10T07:25:24.51981Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Bublik vs Nakashima (Oct 9)",
+      "title": "Bublik vs Nakashima"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT09ZVEYIB",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-09T06:33:42.834494Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Zverev vs Wu (Oct 9)",
+      "title": "Zverev vs Wu"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT09ZHOMUS",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-09T14:33:26.97501Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Zhou vs Musetti (Oct 9)",
+      "title": "Zhou vs Musetti"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT09SAKRUB",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-09T04:13:38.896415Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Sakamoto vs Rublev (Oct 9)",
+      "title": "Sakamoto vs Rublev"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT09MANCOB",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-09T04:13:37.729019Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Mannarino vs Cobolli (Oct 9)",
+      "title": "Mannarino vs Cobolli"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT09KHAFER",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-09T08:43:59.345164Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Khachanov vs Fery (Oct 9)",
+      "title": "Khachanov vs Fery"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT09KECMEN",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-09T09:33:49.987781Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Kecmanovic vs Mensik (Oct 9)",
+      "title": "Kecmanovic vs Mensik"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT09HANTIA",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-09T07:04:29.010657Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Hanfmann vs Tiafoe (Oct 9)",
+      "title": "Hanfmann vs Tiafoe"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT09HALBLO",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-09T06:13:29.769324Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Halys vs Blockx (Oct 9)",
+      "title": "Halys vs Blockx"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT09GEAHUM",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-09T04:13:39.449243Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Gea vs Humbert (Oct 9)",
+      "title": "Gea vs Humbert"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT09FILKOT",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-10T08:53:46.200564Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Fils vs Kotov (Oct 9)",
+      "title": "Fils vs Kotov"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT09DEMOL",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-09T13:13:55.464267Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "de Minaur vs Molcan (Oct 9)",
+      "title": "de Minaur vs Molcan"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT09DARTSI",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-10T10:43:39.249026Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Darderi vs Tsitsipas (Oct 9)",
+      "title": "Darderi vs Tsitsipas"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT09CERSAF",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-09T09:13:46.308541Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Cerundolo vs Safiullin (Oct 9)",
+      "title": "Cerundolo vs Safiullin"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT09BUBMAC",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-09T12:43:48.205967Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Bublik vs Machac (Oct 9)",
+      "title": "Bublik vs Machac"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT09BERNAK",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-09T05:53:57.837858Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Berrettini vs Nakashima (Oct 9)",
+      "title": "Berrettini vs Nakashima"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT08YUNRUU",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-10T08:43:35.635158Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Bu vs Ruud (Oct 8)",
+      "title": "Bu vs Ruud"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT08VANMIC",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-10T11:43:54.805682Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Van de Zandschulp vs Michelsen (Oct 8)",
+      "title": "Van de Zandschulp vs Michelsen"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT08TIESVA",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-10T09:43:56.816814Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Tien vs Svajda (Oct 8)",
+      "title": "Tien vs Svajda"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT08SVRETC",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-10T09:03:38.953139Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Svrcina vs Etcheverry (Oct 8)",
+      "title": "Svrcina vs Etcheverry"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT08PAUVAL",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-10T11:25:22.602288Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Paul vs Vallejo (Oct 8)",
+      "title": "Paul vs Vallejo"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT08MEDSTR",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-10T04:13:43.490227Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Medvedev vs Struff (Oct 8)",
+      "title": "Medvedev vs Struff"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT08LEHBOR",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-10T04:13:43.008682Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Lehecka vs Borges (Oct 8)",
+      "title": "Lehecka vs Borges"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT08DJOHUR",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-09T10:13:47.531669Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Djokovic vs Hurkacz (Oct 8)",
+      "title": "Djokovic vs Hurkacz"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT08DAVBRO",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-09T08:04:08.889863Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Davidovich Fokina vs Brooksby (Oct 8)",
+      "title": "Davidovich Fokina vs Brooksby"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT08BUSBER",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-10T11:55:22.017449Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Buse vs Bergs (Oct 8)",
+      "title": "Buse vs Bergs"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT08NORSVR",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-08T12:13:49.01953Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Norrie vs Svrcina (Oct 8)",
+      "title": "Norrie vs Svrcina"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT07SHEALT",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-09T04:13:38.400623Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Shelton vs Altmaier (Oct 7)",
+      "title": "Shelton vs Altmaier"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT07YIBZHE",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-07T10:14:23.408139Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Wu vs Zheng (Oct 7)",
+      "title": "Wu vs Zheng"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT07UGOSIM",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-08T04:13:51.214587Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Ugo Carabelli vs Simakin (Oct 7)",
+      "title": "Ugo Carabelli vs Simakin"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT07TRUSAK",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-07T07:04:24.385694Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Trungelliti vs Sakamoto (Oct 7)",
+      "title": "Trungelliti vs Sakamoto"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT07TOMARN",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-08T06:03:57.068895Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Tomic vs Arnaldi (Oct 7)",
+      "title": "Tomic vs Arnaldi"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT07MOLCIN",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-07T06:13:55.625589Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Molcan vs Cina (Oct 7)",
+      "title": "Molcan vs Cina"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT07MANBAS",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-07T12:23:43.285709Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Mannarino vs Basilashvili (Oct 7)",
+      "title": "Mannarino vs Basilashvili"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT07KOTGRI",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-08T04:05:53.118437Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Kotov vs Griekspoor (Oct 7)",
+      "title": "Kotov vs Griekspoor"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT07HIJSAF",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-07T08:24:07.062791Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Hijikata vs Safiullin (Oct 7)",
+      "title": "Hijikata vs Safiullin"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT07HALWON",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-07T08:53:58.744953Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Halys vs Wong (Oct 7)",
+      "title": "Halys vs Wong"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT07COPTSI",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-08T05:33:55.702657Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Coppejans vs Tsitsipas (Oct 7)",
+      "title": "Coppejans vs Tsitsipas"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT07CERMEJ",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-08T09:04:21.016834Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Cerundolo vs Mejia (Oct 7)",
+      "title": "Cerundolo vs Mejia"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT07BELZHO",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-07T10:14:21.431791Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Bellucci vs Zhou (Oct 7)",
+      "title": "Bellucci vs Zhou"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT06DJODE",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-06T12:55:13.552335Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Beijing",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Djokovic vs de Minaur (Oct 6)",
+      "title": "Djokovic vs de Minaur"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT06ALCLEH",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-06T09:14:11.362876Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Tokyo",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Alcaraz vs Lehecka (Oct 6)",
+      "title": "Alcaraz vs Lehecka"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT06SWECOP",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-06T08:04:35.609706Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Sweeny vs Coppejans (Oct 6)",
+      "title": "Sweeny vs Coppejans"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT06ZHEMEJ",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-06T05:53:50.582732Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Zheng vs Mejia (Oct 6)",
+      "title": "Zheng vs Mejia"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT06ZHAMAC",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-07T06:44:01.656771Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Zhang vs Machac (Oct 6)",
+      "title": "Zhang vs Machac"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT06VANYUN",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-08T10:04:48.702935Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Van Assche vs Bu (Oct 6)",
+      "title": "Van Assche vs Bu"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT06VANMER",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-08T09:24:32.071374Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Van de Zandschulp vs Merida (Oct 6)",
+      "title": "Van de Zandschulp vs Merida"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT06VALROY",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-08T12:23:50.862305Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Vallejo vs Royer (Oct 6)",
+      "title": "Vallejo vs Royer"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT06TOMSKA",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-06T05:44:04.301443Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Tomic vs Skatov (Oct 6)",
+      "title": "Tomic vs Skatov"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT06TIRMED",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-08T12:23:49.97946Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Tirante vs Medjedovic (Oct 6)",
+      "title": "Tirante vs Medjedovic"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT06SHIKEC",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-07T04:14:10.338064Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Shimabukuro vs Kecmanovic (Oct 6)",
+      "title": "Shimabukuro vs Kecmanovic"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT06SAFMOC",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-06T04:04:36.618657Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Safiullin vs Mochizuki (Oct 6)",
+      "title": "Safiullin vs Mochizuki"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT06RUNALT",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-07T13:16:08.628401Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Rune vs Altmaier (Oct 6)",
+      "title": "Rune vs Altmaier"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT06RIGSIM",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-06T05:44:12.148859Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "TE vs Simakin (Oct 6)",
+      "title": "TE vs Simakin"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT06NORSHA",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-06T12:25:37.614926Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Norrie vs Shapovalov (Oct 6)",
+      "title": "Norrie vs Shapovalov"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT06NAVCAR",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-08T06:23:45.713612Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Navone vs Carreno Busta (Oct 6)",
+      "title": "Navone vs Carreno Busta"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT06MUNBRO",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-08T04:13:50.33545Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Munar vs Brooksby (Oct 6)",
+      "title": "Munar vs Brooksby"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT06MARSVA",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-08T09:00:49.200553Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Marozsan vs Svajda (Oct 6)",
+      "title": "Marozsan vs Svajda"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT06LANSTR",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-08T09:34:09.669704Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Landaluce vs Struff (Oct 6)",
+      "title": "Landaluce vs Struff"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT06KOVBER",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-07T04:14:09.854894Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Kovacevic vs Berrettini (Oct 6)",
+      "title": "Kovacevic vs Berrettini"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT06KOPBER",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-08T11:34:14.65775Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Kopriva vs Bergs (Oct 6)",
+      "title": "Kopriva vs Bergs"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT06HURDUC",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-08T12:23:48.908903Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Hurkacz vs Duckworth (Oct 6)",
+      "title": "Hurkacz vs Duckworth"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT06HANMAJ",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-07T06:34:19.682233Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Hanfmann vs Majchrzak (Oct 6)",
+      "title": "Hanfmann vs Majchrzak"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT06GIRBAE",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-08T09:04:10.761295Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Giron vs Baez (Oct 6)",
+      "title": "Giron vs Baez"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT06GEAFAR",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-07T04:14:09.432551Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Gea vs Faria (Oct 6)",
+      "title": "Gea vs Faria"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT06FERCIL",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-07T12:14:04.809377Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Fery vs Cilic (Oct 6)",
+      "title": "Fery vs Cilic"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT06DRABAS",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-06T04:14:00.241845Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Draxl vs Basilashvili (Oct 6)",
+      "title": "Draxl vs Basilashvili"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT06DOUCIN",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-06T04:14:00.66734Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Dougaz vs Cina (Oct 6)",
+      "title": "Dougaz vs Cina"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT06BORDIA",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-08T04:05:57.171182Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Borges vs Diaz Acosta (Oct 6)",
+      "title": "Borges vs Diaz Acosta"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT05WONHAR",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-06T07:44:15.829532Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Wong vs Harris (Oct 5)",
+      "title": "Wong vs Harris"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT05NISSVR",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-06T12:23:49.553487Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Nishioka vs Svrcina (Oct 5)",
+      "title": "Nishioka vs Svrcina"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT05KOTVUK",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-06T10:24:24.255576Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Kotov vs Vukic (Oct 5)",
+      "title": "Kotov vs Vukic"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT05JACSAK",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-06T07:13:48.898411Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Jacquet vs Sakamoto (Oct 5)",
+      "title": "Jacquet vs Sakamoto"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT05BELMUL",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-06T07:54:07.027353Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Bellucci vs Muller (Oct 5)",
+      "title": "Bellucci vs Muller"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT05DJOMED",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-05T14:24:36.976951Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Beijing",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Djokovic vs Medvedev (Oct 5)",
+      "title": "Djokovic vs Medvedev"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT05LEHVAC",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-05T10:14:46.286652Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Tokyo",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Lehecka vs Vacherot (Oct 5)",
+      "title": "Lehecka vs Vacherot"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT05DEHUR",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-05T12:14:28.489771Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Beijing",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "de Minaur vs Hurkacz (Oct 5)",
+      "title": "de Minaur vs Hurkacz"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT05ZHEGOM",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-05T06:34:11.002133Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Zheng vs Gomez (Oct 5)",
+      "title": "Zheng vs Gomez"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT05XIACIN",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-05T04:14:07.81312Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Xiao vs Cina (Oct 5)",
+      "title": "Xiao vs Cina"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT05WONHEW",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-05T13:04:46.875965Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Wong vs Hewitt (Oct 5)",
+      "title": "Wong vs Hewitt"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT05WALRIG",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-05T07:04:37.248647Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Walton vs TE (Oct 5)",
+      "title": "Walton vs TE"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT05TSEMEJ",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-05T12:14:25.430613Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Tseng vs Mejia (Oct 5)",
+      "title": "Tseng vs Mejia"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT05SWESCH",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-05T09:14:23.100039Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Sweeny vs Schoolkate (Oct 5)",
+      "title": "Sweeny vs Schoolkate"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT05SONDOU",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-05T04:11:04.057255Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Sonego vs Dougaz (Oct 5)",
+      "title": "Sonego vs Dougaz"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT05SKASAK",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-05T06:44:03.576409Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Skatov vs Sakellaridis (Oct 5)",
+      "title": "Skatov vs Sakellaridis"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT05SHENIS",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-05T08:34:38.268466Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Shevchenko vs Nishioka (Oct 5)",
+      "title": "Shevchenko vs Nishioka"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT05SAFGAL",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-05T05:24:03.891544Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Safiullin vs Galarneau (Oct 5)",
+      "title": "Safiullin vs Galarneau"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT05PAVSIM",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-05T06:24:21.560602Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Pavlovic vs Simakin (Oct 5)",
+      "title": "Pavlovic vs Simakin"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT05NOGMUL",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-05T10:04:50.826183Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Noguchi vs Muller (Oct 5)",
+      "title": "Noguchi vs Muller"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT05JACZHA",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-05T09:14:18.855498Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Jacquet vs Zhang (Oct 5)",
+      "title": "Jacquet vs Zhang"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT05ILABAS",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-05T04:04:23.777461Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Ilagan vs Basilashvili (Oct 5)",
+      "title": "Ilagan vs Basilashvili"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT05HONSAK",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-05T07:25:35.556809Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Hong vs Sakamoto (Oct 5)",
+      "title": "Hong vs Sakamoto"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT05HARSVR",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-05T08:14:15.551826Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Harris vs Svrcina (Oct 5)",
+      "title": "Harris vs Svrcina"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT05GASDRA",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-05T04:14:05.703628Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Gaston vs Draxl (Oct 5)",
+      "title": "Gaston vs Draxl"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT05DANMOC",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-05T04:10:54.889184Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Daniel vs Mochizuki (Oct 5)",
+      "title": "Daniel vs Mochizuki"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT05DAMKOT",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-05T08:24:22.344616Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Damm Jr vs Kotov (Oct 5)",
+      "title": "Damm Jr vs Kotov"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT05CUIVUK",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-05T12:54:04.556245Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Cui vs Vukic (Oct 5)",
+      "title": "Cui vs Vukic"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT05COPBAS",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-05T13:04:33.00613Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Coppejans vs Basavareddy (Oct 5)",
+      "title": "Coppejans vs Basavareddy"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT05BOLHAR",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-05T11:04:38.154317Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Bolt vs Harris (Oct 5)",
+      "title": "Bolt vs Harris"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT05BELYME",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-05T10:44:22.712366Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Bellucci vs Ymer (Oct 5)",
+      "title": "Bellucci vs Ymer"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT05ATMTOM",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-05T12:14:26.31207Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Shanghai",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Atmane vs Tomic (Oct 5)",
+      "title": "Atmane vs Tomic"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT04ALCMUN",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-05T07:24:20.759113Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Tokyo",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Alcaraz vs Munar (Oct 4)",
+      "title": "Alcaraz vs Munar"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT04ZVEDJO",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-04T13:54:23.610373Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Beijing",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Zverev vs Djokovic (Oct 4)",
+      "title": "Zverev vs Djokovic"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT04MEDCER",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-04T08:44:26.000207Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Beijing",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Medvedev vs Cerundolo (Oct 4)",
+      "title": "Medvedev vs Cerundolo"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT04LEHVAL",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-04T09:54:25.220771Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Tokyo",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Lehecka vs Vallejo (Oct 4)",
+      "title": "Lehecka vs Vallejo"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT03HURKHA",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-04T05:14:23.334496Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Beijing",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Hurkacz vs Khachanov (Oct 3)",
+      "title": "Hurkacz vs Khachanov"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT03DERUB",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-04T07:04:39.431367Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Beijing",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "de Minaur vs Rublev (Oct 3)",
+      "title": "de Minaur vs Rublev"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT03VACFIL",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-04T07:04:41.576227Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Tokyo",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Vacherot vs Fils (Oct 3)",
+      "title": "Vacherot vs Fils"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT03MUNJAC",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-04T02:14:49.880338Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Tokyo",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Munar vs Jacquet (Oct 3)",
+      "title": "Munar vs Jacquet"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT03ALCSHA",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-04T05:54:20.214807Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Tokyo",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Alcaraz vs Shapovalov (Oct 3)",
+      "title": "Alcaraz vs Shapovalov"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT02RUBSAF",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-03T05:43:58.573308Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Beijing",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Rublev vs Safiullin (Oct 2)",
+      "title": "Rublev vs Safiullin"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT02MEDSTR",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-03T10:14:12.25737Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Beijing",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Medvedev vs Struff (Oct 2)",
+      "title": "Medvedev vs Struff"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT02CERMEN",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-03T12:13:50.553108Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Beijing",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Cerundolo vs Mensik (Oct 2)",
+      "title": "Cerundolo vs Mensik"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT02BERVAL",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-03T07:14:03.476223Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Tokyo",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Berrettini vs Vallejo (Oct 2)",
+      "title": "Berrettini vs Vallejo"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT02ALCARN",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-03T04:44:07.291351Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Tokyo",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Alcaraz vs Arnaldi (Oct 2)",
+      "title": "Alcaraz vs Arnaldi"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT02HURGEA",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-02T11:24:07.953423Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Beijing",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Hurkacz vs Gea (Oct 2)",
+      "title": "Hurkacz vs Gea"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT01ZVESHA",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-03T11:23:55.055868Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Beijing",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Zverev vs Shang (Oct 1)",
+      "title": "Zverev vs Shang"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT01YUNDJO",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-02T12:44:03.969406Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Beijing",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Bu vs Djokovic (Oct 1)",
+      "title": "Bu vs Djokovic"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT01MOLKHA",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-02T05:14:13.022579Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Beijing",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Molcan vs Khachanov (Oct 1)",
+      "title": "Molcan vs Khachanov"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT01DEHAL",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-03T03:14:09.010512Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Beijing",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "de Minaur vs Halys (Oct 1)",
+      "title": "de Minaur vs Halys"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT01VACTSI",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-02T03:35:16.536689Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Tokyo",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Vacherot vs Tsitsipas (Oct 1)",
+      "title": "Vacherot vs Tsitsipas"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT01SHATAB",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-03T02:16:57.724464Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Tokyo",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Shapovalov vs Tabilo (Oct 1)",
+      "title": "Shapovalov vs Tabilo"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT01MUNFAR",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-02T02:15:28.182752Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Tokyo",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Munar vs Faria (Oct 1)",
+      "title": "Munar vs Faria"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT01JACDAR",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-02T08:04:38.63656Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Tokyo",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Jacquet vs Darderi (Oct 1)",
+      "title": "Jacquet vs Darderi"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT01HUMLEH",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-03T09:13:49.50176Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Tokyo",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Humbert vs Lehecka (Oct 1)",
+      "title": "Humbert vs Lehecka"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26OCT01FILTIA",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-02T09:53:43.908674Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Tokyo",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Fils vs Tiafoe (Oct 1)",
+      "title": "Fils vs Tiafoe"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26SEP30MOLMAC",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-01T04:14:17.71666Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Beijing",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Molcan vs Machac (Sep 30)",
+      "title": "Molcan vs Machac"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26SEP30FARFER",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-01T02:14:10.734692Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Tokyo",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Faria vs Fery (Sep 30)",
+      "title": "Faria vs Fery"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26SEP29ZHAGEA",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-09-30T10:04:35.164763Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Beijing",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Zhang vs Gea (Sep 29)",
+      "title": "Zhang vs Gea"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26SEP29VANCER",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-01T12:24:12.908366Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Beijing",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Van de Zandschulp vs Cerundolo (Sep 29)",
+      "title": "Van de Zandschulp vs Cerundolo"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26SEP29VALJOD",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-01T10:35:36.927999Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Tokyo",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Vallejo vs Jodar (Sep 29)",
+      "title": "Vallejo vs Jodar"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26SEP29MOLRIN",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-01T03:41:13.731555Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Beijing",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Molcan vs Rinderknech (Sep 29)",
+      "title": "Molcan vs Rinderknech"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26SEP29MEDCAR",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-02T07:14:07.601907Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Beijing",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Medvedev vs Carreno Busta (Sep 29)",
+      "title": "Medvedev vs Carreno Busta"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26SEP29FRIMUN",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-01T05:13:55.681255Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Tokyo",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Fritz vs Munar (Sep 29)",
+      "title": "Fritz vs Munar"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26SEP29FILVAN",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-09-30T07:14:09.255305Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Tokyo",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Fils vs Van Assche (Sep 29)",
+      "title": "Fils vs Van Assche"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26SEP29ETCTSI",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-01T05:53:35.081694Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Tokyo",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Etcheverry vs Tsitsipas (Sep 29)",
+      "title": "Etcheverry vs Tsitsipas"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26SEP29MEDRUB",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-09-29T11:43:54.050206Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Hangzhou",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Medvedev vs Rublev (Sep 29)",
+      "title": "Medvedev vs Rublev"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26SEP29HURDAV",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-09-29T11:04:34.715906Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Chengdu",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Hurkacz vs Davidovich Fokina (Sep 29)",
+      "title": "Hurkacz vs Davidovich Fokina"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26SEP29VALFAR",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-09-29T05:34:12.530462Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Tokyo",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Vallejo vs Faria (Sep 29)",
+      "title": "Vallejo vs Faria"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26SEP29VANCUI",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-09-29T05:14:12.240804Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Beijing",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Van de Zandschulp vs Cui (Sep 29)",
+      "title": "Van de Zandschulp vs Cui"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26SEP28ZVENOR",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-01T08:14:07.845641Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Beijing",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Zverev vs Norrie (Sep 28)",
+      "title": "Zverev vs Norrie"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26SEP28VACBLO",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-09-30T02:14:25.677051Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Tokyo",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Vacherot vs Blockx (Sep 28)",
+      "title": "Vacherot vs Blockx"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26SEP28TSIHIJ",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-09-29T02:04:29.946384Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Tokyo",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Tsitsipas vs Hijikata (Sep 28)",
+      "title": "Tsitsipas vs Hijikata"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26SEP28TRUMOL",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-09-29T04:14:04.644909Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Beijing",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Trungelliti vs Molcan (Sep 28)",
+      "title": "Trungelliti vs Molcan"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26SEP28TIEHUR",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-01T11:24:32.19135Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Beijing",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Tien vs Hurkacz (Sep 28)",
+      "title": "Tien vs Hurkacz"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26SEP28TABPAU",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-09-30T05:54:17.001961Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Tokyo",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Tabilo vs Paul (Sep 28)",
+      "title": "Tabilo vs Paul"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26SEP28STRTIR",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-09-30T05:54:24.052999Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Beijing",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Struff vs Tirante (Sep 28)",
+      "title": "Struff vs Tirante"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26SEP28SHASHI",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-01T07:54:05.435983Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Tokyo",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Shapovalov vs Shimabukuro (Sep 28)",
+      "title": "Shapovalov vs Shimabukuro"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26SEP28SHABAE",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-01T07:54:04.050708Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Beijing",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Shang vs Baez (Sep 28)",
+      "title": "Shang vs Baez"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26SEP28SAFCOB",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-01T12:24:17.194894Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Beijing",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Safiullin vs Cobolli (Sep 28)",
+      "title": "Safiullin vs Cobolli"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26SEP28RUNJAC",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-01T04:21:17.025922Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Tokyo",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Rune vs Jacquet (Sep 28)",
+      "title": "Rune vs Jacquet"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26SEP28NISTIA",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-01T05:34:08.590506Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Tokyo",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Nishikori vs Tiafoe (Sep 28)",
+      "title": "Nishikori vs Tiafoe"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26SEP28NAKHUM",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-01T12:04:13.998074Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Tokyo",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Nakashima vs Humbert (Sep 28)",
+      "title": "Nakashima vs Humbert"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26SEP28MUSFER",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-09-30T03:21:00.072139Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Tokyo",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Musetti vs Fery (Sep 28)",
+      "title": "Musetti vs Fery"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26SEP28MANCAR",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-09-29T06:04:22.335244Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Beijing",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Mannarino vs Carreno Busta (Sep 28)",
+      "title": "Mannarino vs Carreno Busta"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26SEP28MACGEA",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-09-29T04:34:30.768539Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Beijing",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Machac vs Gea (Sep 28)",
+      "title": "Machac vs Gea"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26SEP28LEHBER",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-01T12:24:05.815293Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Tokyo",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Lehecka vs Bergs (Sep 28)",
+      "title": "Lehecka vs Bergs"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26SEP28KHAAUG",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-09-30T04:34:23.046526Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Beijing",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Khachanov vs Auger-Aliassime (Sep 28)",
+      "title": "Khachanov vs Auger-Aliassime"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26SEP28GRIRUB",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-01T09:24:17.913377Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Beijing",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Griekspoor vs Rublev (Sep 28)",
+      "title": "Griekspoor vs Rublev"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26SEP28DENAV",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-01T05:13:59.565748Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Beijing",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "de Minaur vs Navone (Sep 28)",
+      "title": "de Minaur vs Navone"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26SEP28DAVBER",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-01T12:04:26.656855Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Tokyo",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Davidovich Fokina vs Berrettini (Sep 28)",
+      "title": "Davidovich Fokina vs Berrettini"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26SEP28DARRUU",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-01T12:04:14.855499Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Tokyo",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Darderi vs Ruud (Sep 28)",
+      "title": "Darderi vs Ruud"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26SEP28CERYUN",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-09-30T07:24:01.795922Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Beijing",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Cerundolo vs Bu (Sep 28)",
+      "title": "Cerundolo vs Bu"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26SEP28BUSHAL",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-01T12:24:14.883967Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Beijing",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Buse vs Halys (Sep 28)",
+      "title": "Buse vs Halys"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26SEP28BUBMEN",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-01T12:44:23.465752Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Beijing",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Bublik vs Mensik (Sep 28)",
+      "title": "Bublik vs Mensik"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26SEP28BORDJO",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-09-30T11:14:36.00766Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Beijing",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Borges vs Djokovic (Sep 28)",
+      "title": "Borges vs Djokovic"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26SEP28ARNSAK",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-09-30T09:05:02.280043Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Tokyo",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Arnaldi vs Sakamoto (Sep 28)",
+      "title": "Arnaldi vs Sakamoto"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26SEP28ALCMIC",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-10-01T07:44:17.35559Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Tokyo",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Alcaraz vs Michelsen (Sep 28)",
+      "title": "Alcaraz vs Michelsen"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26SEP28MUNKOV",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-09-29T04:24:20.231031Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Tokyo",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Munar vs Kovacevic (Sep 28)",
+      "title": "Munar vs Kovacevic"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26SEP28FILMAJ",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-09-29T03:44:25.940817Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Tokyo",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Fils vs Majchrzak (Sep 28)",
+      "title": "Fils vs Majchrzak"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26SEP28MEDSAF",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-09-28T11:44:09.316725Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Hangzhou",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Medvedev vs Safiullin (Sep 28)",
+      "title": "Medvedev vs Safiullin"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26SEP28HURSHA",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-09-28T11:30:59.084422Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Chengdu",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Hurkacz vs Shapovalov (Sep 28)",
+      "title": "Hurkacz vs Shapovalov"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26SEP28BASDAV",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-09-28T09:14:33.80548Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Chengdu",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Basilashvili vs Davidovich Fokina (Sep 28)",
+      "title": "Basilashvili vs Davidovich Fokina"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26SEP28CUIALT",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-09-28T10:06:36.13191Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Beijing",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Cui vs Altmaier (Sep 28)",
+      "title": "Cui vs Altmaier"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26SEP27RIGGEA",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-09-28T04:05:16.82121Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Beijing",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "TE vs Gea (Sep 27)",
+      "title": "TE vs Gea"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26SEP27ZHOCAR",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-09-28T18:54:09.342046Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Beijing",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Zhou vs Carreno Busta (Sep 27)",
+      "title": "Zhou vs Carreno Busta"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26SEP27VANROY",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-09-28T18:54:11.325316Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Beijing",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Van de Zandschulp vs Royer (Sep 27)",
+      "title": "Van de Zandschulp vs Royer"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26SEP27VALDAN",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-09-28T08:34:11.070337Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Tokyo",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Vallejo vs Daniel (Sep 27)",
+      "title": "Vallejo vs Daniel"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26SEP27TSINIS",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-09-28T03:44:11.812339Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Tokyo",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Tsitsipas vs Nishioka (Sep 27)",
+      "title": "Tsitsipas vs Nishioka"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26SEP27SVAKOV",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-09-28T05:54:17.204952Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Tokyo",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Svajda vs Kovacevic (Sep 27)",
+      "title": "Svajda vs Kovacevic"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26SEP27SONMAJ",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-09-28T08:54:09.889358Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Tokyo",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "Sonego vs Majchrzak (Sep 27)",
+      "title": "Sonego vs Majchrzak"
+    },
+    {
+      "category": "Sports",
+      "collateral_return_type": "MECNET",
+      "event_ticker": "KXATPMATCH-26SEP27RIGDUC",
+      "exchange_index": 3,
+      "last_updated_ts": "2026-09-28T15:24:24.869436Z",
+      "mutually_exclusive": true,
+      "product_metadata": {
+        "competition": "ATP Beijing",
+        "competition_scope": "Game"
+      },
+      "series_ticker": "KXATPMATCH",
+      "settlement_sources": [
+        {
+          "name": "ATP",
+          "url": "https://www.atptour.com/"
+        }
+      ],
+      "strike_period": "",
+      "sub_title": "TE vs Duckworth (Sep 27)",
+      "title": "TE vs Duckworth"
+    }
+  ],
+  "milestones": []
+}
