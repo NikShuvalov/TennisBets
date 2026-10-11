@@ -2,6 +2,7 @@ package org.example
 
 import com.google.gson.JsonObject
 import com.google.gson.JsonParser
+import org.example.database.PlayerRepository
 import java.net.URI
 import java.net.URLEncoder
 import java.net.http.HttpClient
@@ -33,37 +34,40 @@ object ApiRequest {
         var count = 0
 
         try {
-            do {
-                val url = (BASE_URL + "/events?limit=200"
-                        + "&series_ticker=" + seriesTicker
-                        + "&status=open"
-                        + "&with_nested_markets=true"
-                        + (if (cursor.isEmpty()) "" else "&cursor=" + URLEncoder.encode(
-                    cursor,
-                    StandardCharsets.UTF_8
-                )))
+            PlayerRepository("players.db").use { players ->
+                do {
+                    val url = (BASE_URL + "/events?limit=200"
+                            + "&series_ticker=" + seriesTicker
+                            + "&status=open"
+                            + "&with_nested_markets=true"
+                            + (if (cursor.isEmpty()) "" else "&cursor=" + URLEncoder.encode(
+                        cursor,
+                        StandardCharsets.UTF_8
+                    )))
 
-                val root = JsonParser.parseString(get(url)).getAsJsonObject()
+                    val root = JsonParser.parseString(get(url)).getAsJsonObject()
 
-                val events = root.getAsJsonArray("events")
-                for (el in events) {
-                    printEvent(el.getAsJsonObject())
-                    count++
-                }
+                    val events = root.getAsJsonArray("events")
+                    for (event in events) {
+                        printEvent(event.getAsJsonObject(), players)
+                        count++
+                    }
 
-                cursor = if (root.has("cursor") && !root.get("cursor").isJsonNull())
-                    root.get("cursor").getAsString()
-                else
-                    ""
-            } while (!cursor.isEmpty())
+                    cursor = if (root.has("cursor") && !root.get("cursor").isJsonNull())
+                        root.get("cursor").getAsString()
+                    else
+                        ""
+                } while (cursor.isNotEmpty())
 
-            println("\nTotal open events: " + count)
+                println("\nTotal open events: " + count)
+                println("Total Players In DB: ${players.count()}")
+            }
         } catch (e: Exception) {
             System.err.println("Request failed: " + e.message)
         }
     }
 
-    private fun printEvent(event: JsonObject) {
+    private fun printEvent(event: JsonObject, players: PlayerRepository) {
         val ticker = event.get("event_ticker").getAsString()
         val title = event.get("title").getAsString()
 
@@ -76,11 +80,12 @@ object ApiRequest {
         for (m in event.getAsJsonArray("markets")) {
             val market = m.getAsJsonObject()
             val player = market.get("yes_sub_title").getAsString()
+            players.add(player)
             // getAsDouble works whether Kalshi sends 0.62 or "0.6200"
             val price = if (market.has("last_price_dollars") && !market.get("last_price_dollars").isJsonNull())
                 market.get("last_price_dollars").getAsDouble()
             else Double.NaN
-            if (line.length > 0) line.append("  vs  ")
+            if (line.isNotEmpty()) line.append("  vs  ")
             line.append(String.format("%s ($%.2f)", player, price))
         }
         System.out.printf("%s | %s%n", ticker, line)
